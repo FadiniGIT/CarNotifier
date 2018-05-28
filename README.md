@@ -1,4 +1,11 @@
 # CarNotifierTweeter
+
+
+This program requires the twitter gem, for twitter functionality. 
+to install, `gem install twitter`
+
+
+
 A ruby program to alert about new listings from CarGurus and tweet to the user
 
 I'm looking at cars to buy, and I don't want to constantly check...so here a program to do it from www.cargurus.com
