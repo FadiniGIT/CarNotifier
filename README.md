@@ -2,7 +2,8 @@
 
 
 This program requires the twitter gem, for twitter functionality. 
-to install, `gem install twitter`
+
+to install: `gem install twitter`
 
 
 
@@ -14,6 +15,6 @@ Just edit it to your needs to make it run
 
 
 
-Big thanks to StackOverflow user Joshua Cheek for his help
+Big thanks to StackOverflow user Joshua Cheek for his help with filter information 
 
 https://stackoverflow.com/users/184212/joshua-cheek
