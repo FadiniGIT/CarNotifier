@@ -15,6 +15,6 @@ Just edit it to your needs to make it run
 
 
 
-Big thanks to StackOverflow user Joshua Cheek for his help with filter information 
+Big thanks to StackOverflow user [Joshua Cheek](https://stackoverflow.com/users/184212/joshua-cheek) for his help with filter information 
 
-https://stackoverflow.com/users/184212/joshua-cheek
+
